@@ -48,4 +48,3 @@ If you like this project or have suggestions, feel free to reach out:
 Thank you for checking out my project!
 
 
-Thank you for checking out my project!
