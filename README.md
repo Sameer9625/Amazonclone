@@ -19,7 +19,7 @@ This project is an Amazon clone that I designed to showcase my web development s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Sameer9625/amazon-clone.git
    cd amazon-clone
    ```
 
