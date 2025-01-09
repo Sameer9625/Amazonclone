@@ -18,8 +18,8 @@ This project is an Amazon clone that I designed to showcase my web development s
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Sameer9625/amazon-clone.git
+  ```bash
+   git clone https://github.com/Sameer9625/Sameer9625/amazon-clone.git
    cd amazon-clone
    ```
 
@@ -37,6 +37,15 @@ This project is an Amazon clone that I designed to showcase my web development s
 ## Acknowledgments
 
 This project is inspired by Amazon's e-commerce platform and is created for learning and practice purposes. All product images and names used are for demonstration only.
+
+### Connect with Me
+
+If you like this project or have suggestions, feel free to reach out:
+
+- [GitHub](https://github.com/Sameer9625/Sameer9625)
+- [LinkedIn](https://www.linkedin.com/in/sameer-662453292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Thank you for checking out my project!
 
 
 Thank you for checking out my project!
