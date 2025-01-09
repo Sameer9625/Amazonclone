@@ -14,18 +14,11 @@ This project is an Amazon clone that I designed to showcase my web development s
 - **HTML**: Used to structure the content of the website.
 - **CSS**: Used for styling and layout, ensuring a visually appealing design.
 
-## How to Use
+## Screenshot of the Project:
+![image](https://github.com/user-attachments/assets/618ebec5-62ce-42c8-9a13-d058a7be17da)
+![image](https://github.com/user-attachments/assets/083a40c1-49eb-4e63-a67d-0ff9728fb315)
+![image](https://github.com/user-attachments/assets/8cad97e0-6506-4045-afd8-45142a6d36c8)
 
-1. Clone the repository:
-
-  ```bash
-   git clone https://github.com/Sameer9625/Sameer9625/amazon-clone.git
-   cd amazon-clone
-   ```
-
-2. Open the project in your browser:
-
-   Navigate to the project folder and open the `index.html` file in any modern web browser.
 
 ## Future Enhancements
 
